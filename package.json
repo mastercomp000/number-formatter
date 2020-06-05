@@ -1,0 +1,31 @@
+{
+  "name": "number-formatter",
+  "version": "0.1.0",
+  "description": "some description...",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mastercomp000/number-formatter.git"
+  },
+  "keywords": [
+    "app",
+    "node",
+    "number-formatter"
+  ],
+  "author": "“Pavlo <“mastercomp000@gmail.com”>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mastercomp000/number-formatter/issues"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "homepage": "https://github.com/mastercomp000/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.2.0"
+  }
+}
