@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/mastercomp000/number-formatter/badge.svg)](https://coveralls.io/github/mastercomp000/number-formatter)
+
 Number Formatter
 =========
 
